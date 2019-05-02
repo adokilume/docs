@@ -1,6 +1,6 @@
 # BCCB User Manual
 
-This is the official reference guide for the unofficial Bondage Club Chat Bot (BCCB), developed and maintained by adokilume. For bug reports, suggestions, or general comments, feel free to message `adokilume#1553` on Discord (or leave a comment on this GitHub page).
+This is the official reference guide for the unofficial Bondage Club Chat Bot (BCCB), developed and maintained by adokilume. For bug reports, suggestions, or general comments, feel free to message `adokilume#1553` on Discord.
 
 The game [Bondage College / Bondage Club](https://github.com/Ben987/Bondage-College) was made by Ben987.
 
@@ -26,7 +26,7 @@ Commands listed next to each other (separated by a comma) are aliases and can be
 
 Anything written inside `<>` signifies that it should be replaced by a custom parameter of your choice.
 
-Commands tagged with *NoSub* will, by default, only work for members whose **Dominant** reputation is higher than -50 (aka **Submission** lower than 50). Commands tagged with *DomOnly* will only work for members whose **Dominant** reputation is at least 50.
+Commands tagged with *NoSub* will, by default, only work for members whose **Dominant** reputation is higher than -50 (aka **Submissive** lower than 50). Commands tagged with *DomOnly* will only work for members whose **Dominant** reputation is at least 50.
 
 ### Basic Commands
 
